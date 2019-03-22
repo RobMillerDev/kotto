@@ -1,5 +1,5 @@
 # kotto
-
+The file is best read "raw" to accomodate drawings
 Kotto is a cloud hosting aplication.
 
 The server is written in nodeJS.
